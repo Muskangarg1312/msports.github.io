@@ -216,3 +216,10 @@ footer a{
 .social{
 	color: black;
 }
+.home{
+color: black;
+padding: 1rem;
+font-weight: bold;
+background-color: white;
+border-radius: 12px;
+}
